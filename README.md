@@ -2,5 +2,6 @@
 
 ## Наце Ѓорѓиевски 203019
 
+### Control Flow Graph
 ![Control Flow Graph](CFG.png)
 
